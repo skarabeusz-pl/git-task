@@ -1,0 +1,7 @@
+# ignore these extensions
+*.log
+*.db
+
+# ignore these directories
+target/
+bin/
